@@ -11,7 +11,7 @@ public class Test {
 	@GetMapping("/test1")
 	@ResponseBody
 	public String test1() {
-		return "this is test functioon for online testing";
+		return "this is test functioon for online testing Rajesh";
 	}
 	
 	@GetMapping("/goto/{name}")
